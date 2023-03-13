@@ -4,11 +4,13 @@
 #### BASIC GIT COMMANDS
 I made this project just for fun, it allows you to create nice and simple GitHub 
 
+
+⚛ React
+📱 React Native
+💻 HTML, CSS, JS
+
 - Name : Montilla, Jevenry M.
 - Course : BSIT
 - Section : 2218
 - Sbject : SIA
-
-
-
 
